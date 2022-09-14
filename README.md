@@ -3,7 +3,7 @@ C++ caro project for OOP course
 
 IDE: Visual Studio 2019
 
-**Config before start:**
+**Config in Visual Studio 2019 before start:**
 1. Project -> Propertites -> C/C++ -> Language
 2. Set "C++ Language Standard" to "Preview - Features from the Latest C++ Working Draft (/std:c++latest)"   
 

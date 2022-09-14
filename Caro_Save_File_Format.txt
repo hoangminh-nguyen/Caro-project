@@ -1,0 +1,23 @@
+-------------
+[board_size] [left] [top]
+[turn] [count_X_step] [count_Y_step]
+
+[check] [check] [check]
+[check] [check] [check]
+[check] [check] [check]
+
+-------------
+ví dụ
+0.1.2.3.4.5.6
+1.
+2.   | |X|O|
+3.   | |X| |
+4.   |X|O| |
+5.
+
+thì lưu là
+3 1 2
+0 3 2
+0 -1 1
+0 -1 0
+-1 1 0

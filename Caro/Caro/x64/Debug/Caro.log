@@ -1,0 +1,6 @@
+﻿  _Board.cpp
+  _Game.cpp
+  main.cpp
+D:\HỌC HÀNH\stuff\Caro\C-Caro-project\Caro\Caro\main.cpp(3,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Generating Code...
+  Caro.vcxproj -> D:\HỌC HÀNH\stuff\Caro\C-Caro-project\Caro\x64\Debug\Caro.exe
